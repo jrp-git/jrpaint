@@ -2,10 +2,13 @@
 
 A cross-platform desktop paint application inspired by classic Microsoft Paint, built with Python 3 and PyQt6.
 
+![JRPaint Main Window](main.png)
+
 ## Features
 
 - **Classic Feel, Modern Power**: Inspired by the pre-2017 Microsoft Paint UI.
 - **Layer System**: Photoshop-style layers (add, delete, reorder, merge, duplicate, opacity, visibility).
+![Layers Panel](Layers.png)
 - **Advanced Selection**: Lift-and-move pixels, resize with 8 handles, and rotate selections.
 - **Transparency Support**: Alpha channel support and a dedicated transparent color swatch.
 - **Tools**: 17 essential tools including Pencil, Brush, Airbrush, Text (inline editing), Shapes (Rectangle, Ellipse, Polygon, etc.), and more.
