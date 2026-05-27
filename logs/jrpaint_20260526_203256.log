@@ -1,0 +1,5 @@
+2026-05-26 20:32:56,434 [INFO] jrpaint – Starting JRPaint  (log → /home/jrp/gemini/jrpaint/logs/jrpaint_20260526_203256.log)
+2026-05-26 20:32:56,435 [INFO] jrpaint – Faulthandler crash log → /home/jrp/gemini/jrpaint/logs/crash.log
+2026-05-26 20:32:56,660 [INFO] jrpaint.icon_loader – Loaded icon config from /home/jrp/gemini/jrpaint/gui_config.json
+2026-05-26 20:32:57,102 [INFO] jrpaint – Window shown – entering event loop
+2026-05-26 20:33:09,330 [INFO] jrpaint – Exiting with code 0

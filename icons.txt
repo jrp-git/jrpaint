@@ -1,0 +1,44 @@
+JRPaint Icon Reference
+======================
+
+All icons are currently Unicode text characters (no image files).
+
+TOOL PALETTE (left side, 2-column grid)
+---------------------------------------
+✂  (U+2702)  Free-Form Select — lasso selection tool
+□  (U+25A1)  Select — rectangular selection tool
+⎕  (U+2395)  Eraser/Color Eraser — erases to transparent
+⬢  (U+2B22)  Fill With Color — paint bucket flood fill
+✐  (U+2710)  Pick Color — eyedropper / color sampler
+🔍 (U+1F50D) Magnifier — click to zoom in/out
+✏  (U+270F)  Pencil — freehand 1px drawing
+🖌 (U+1F58C) Brush — variable-size freehand drawing
+☁  (U+2601)  Airbrush — gaussian spray pattern
+A  (letter)  Text — click to place text
+╱  (U+2571)  Line — straight line with preview
+∿  (U+223F)  Curve — 3-step cubic bezier curve
+▭  (U+25AD)  Rectangle — rectangle with fill modes
+⬣  (U+2B23)  Polygon — click vertices, close near first point
+○  (U+25CB)  Ellipse — ellipse with fill modes
+▢  (U+25A2)  Rounded Rectangle — rounded rectangle with fill modes
+✛  (U+271B)  Move Layer — drag to reposition the active layer
+
+LAYERS PANEL (bottom button bar)
+---------------------------------
++  (plus)    Add Layer — create a new empty layer
+−  (U+2212)  Delete Layer — remove the selected layer
+↑  (U+2191)  Move Layer Up — move layer up in the stack
+↓  (U+2193)  Move Layer Down — move layer down in the stack
+⧉  (U+29C9)  Duplicate Layer — copy the selected layer
+⭳  (U+2B73)  Merge Down — merge selected layer into the one below
+
+COLOR PALETTE (bottom bar)
+--------------------------
+[FG/BG]      Foreground/Background color squares — click to swap
+[28 swatches] Classic Paint 28-color grid (2 rows of 14)
+[diagonal]   Transparent color — red/white diagonal stripe button
+
+SELECTION HANDLES (when floating selection is active)
+-----------------------------------------------------
+■  (white squares)    8 resize handles on corners and edge midpoints
+●  (blue circle)      Rotation handle — outside top-right corner, connected by dotted line

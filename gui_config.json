@@ -1,0 +1,34 @@
+{
+    "_comment": "Icon selection config for JRPaint. Edit the filename for each icon to choose which variant to use. Files are relative to the 'temp/' directory. Set to null to use the default Unicode text icon instead.",
+    "theme": {
+        "app_background": "#2D2D30",
+        "tool_button_background": "#9e9e9e"
+    },
+    "tools": {
+        "free_select":  "FreeFormSelect_5.png",
+        "rect_select":  "RectSelect_2.png",
+        "eraser":       "Eraser_1.png",
+        "fill":         "Fill_2.png",
+        "pick_color":   "PickColor_1.png",
+        "magnifier":    "Magnifier_5.png",
+        "pencil":       "Pencil_3.png",
+        "brush":        "Brush_5.png",
+        "airbrush":     "Airbrush_1.png",
+        "text":         "Text_1.png",
+        "line":         "Line_3.png",
+        "curve":        "Curve_3.png",
+        "rectangle":    "Rectangle_1.png",
+        "polygon":      "Polygon_1.png",
+        "ellipse":      "Ellipse_2.png",
+        "rounded_rect": "RoundedRect_4.png",
+        "move":         "MoveLayer_4.png"
+    },
+    "layers": {
+        "add":          "AddLayer_1.png",
+        "delete":       "DeleteLayer_2.png",
+        "move_up":      "MoveLayerUp_5.png",
+        "move_down":    "MoveLayerDown_6.png",
+        "duplicate":    "DuplicateLayer_1.png",
+        "merge_down":   "MergeDown_3.png"
+    }
+}
