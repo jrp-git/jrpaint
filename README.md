@@ -35,16 +35,16 @@ python3 main.py
 ```
 
 ### From PAR File (Portable Archive)
-If you have the `jrpaint.par` file, you can run it directly:
+If you have the `jrpaint.par` file (found in the `releases/` folder), you can run it directly:
 ```bash
-python3 jrpaint.par
+python3 releases/jrpaint.par
 ```
 
 ## Project Structure
 - `main.py`: Entry point and application setup.
 - `jrpaint/`: Core application logic and resources.
 - `gui_config.json`: Theme and icon configuration.
-- `jrpaint.par`: Pre-packaged portable executable.
+- `releases/`: Contains the pre-packaged portable executable (`jrpaint.par`).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
